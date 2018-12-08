@@ -1,2 +1,2 @@
-# 555-Circuits-PDF-
+# 555-Circuits
 Some 555 circuits (PDF)
